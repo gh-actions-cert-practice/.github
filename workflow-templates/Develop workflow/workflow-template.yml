@@ -1,0 +1,5 @@
+name: Develop workflow
+description: "A reusable workflow to implement CI/CD for develop branches."
+categories:
+  - ci-cd
+icon: develop-ci
